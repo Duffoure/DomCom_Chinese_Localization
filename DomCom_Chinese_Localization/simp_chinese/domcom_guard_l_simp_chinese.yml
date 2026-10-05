@@ -1,0 +1,32 @@
+l_simp_chinese:
+  domcom_guard.100.t: "宫廷周围的流言"
+  domcom_guard.100.desc: "[scope:domcom_guard_suitor.GetShortUIName]对[scope:domcom_guard_partner.GetShortUIName]的追求日益大胆。虽然他们之间尚未发生任何实质接触，但这种意图已不再隐晦。如果[scope:domcom_guard_suitor.GetShortUIName]试图更进一步，你将有机会亲自回应这一挑战。"
+  domcom_guard.100.a: "我会密切关注。"
+
+  domcom_guard.110.t: "门前的挑战"
+  domcom_guard.110.desc: "流言已演变为直接的挑衅。[scope:domcom_guard_suitor.GetShortUIName]意图将[scope:domcom_guard_partner.GetShortUIName]带上床。这目前尚未构成戴绿帽子：还没有发生过性接触。如果你想阻止这件事，可以在[scope:domcom_guard_partner.GetShortUIName]决定是否接受追求之前亲自解决此事。"
+  domcom_guard.110.a: "直面我。"
+  domcom_guard.110.a.tt: "与[scope:domcom_guard_suitor.GetShortUIName]开启一场#V 非致命单挑比武#!。\n#P 如果你获胜：#!性追求将被取消，且[scope:domcom_guard_partner.GetShortUIName]在#V 1年#!内不会成为AI支配追求或亲密行为的目标。\n#N 如果你失败：#! [scope:domcom_guard_partner.GetShortUIName]仍将独立决定是否接受或拒绝该追求。"
+  domcom_guard.110.b: "我们在棋盘上一决胜负。"
+  domcom_guard.110.b.tt: "与[scope:domcom_guard_suitor.GetShortUIName]开启CK3的#V 棋牌对弈#!系统。\n#P 如果你获胜：#!性追求将被取消，且[scope:domcom_guard_partner.GetShortUIName]获得为期#V 1年#!的保护，不受所有AI支配追求/亲密行为侵扰。\n#N 如果你失败：#! [scope:domcom_guard_partner.GetShortUIName]仍将决定是否接受该追求。"
+  domcom_guard.110.c: "我不会阻揽他们。"
+  domcom_guard.110.c.tt: "你放弃了正面交锋。[scope:domcom_guard_partner.GetShortUIName]仍将独立决定是否接受[scope:domcom_guard_suitor.GetShortUIName]。#N 只有在确实发生亲密关系后，你才会变为被戴绿帽子状态。#!"
+  domcom_guard.110.d: "目前无法解决此事。"
+  domcom_guard.110.d.tt: "目前两种对决形式都无法启动。性追求被#P 延迟#!而非算作失败；支配机制将在约一个月后再次尝试触发交锋。"
+
+  domcom_guard.140.t: "底线已被越过"
+  domcom_guard.140.desc: "你挑战了[scope:domcom_guard_suitor.GetShortUIName]但落败了。随后，[scope:domcom_guard_partner.GetShortUIName]选择接受[scope:domcom_guard_suitor.GetShortUINamePossessive]追求，两人发生了关系。这就是导致你被戴绿帽子的事件：[scope:domcom_guard_suitor.GetShortUIName]与[scope:domcom_guard_partner.GetShortUIName]。"
+  domcom_guard.140.desc.aside: "你选择不干预。随后[scope:domcom_guard_partner.GetShortUIName]接受了[scope:domcom_guard_suitor.GetShortUINamePossessive]追求，两人发生了关系。这就是导致你被戴绿帽子的事件：[scope:domcom_guard_suitor.GetShortUIName]与[scope:domcom_guard_partner.GetShortUIName]。"
+  domcom_guard.140.a: "至少我知道究竟发生了什么。"
+
+  domcom_guard.141.t: "追求就此终结"
+  domcom_guard.141.desc: "你的对决未能阻止[scope:domcom_guard_suitor.GetShortUIName]，但[scope:domcom_guard_partner.GetShortUIName]阻止了。当最终面临抉择时，[scope:domcom_guard_partner.GetShortUIName]拒绝了性接触。没有发生关系，你也没有因为这次尝试而被戴绿帽子。"
+  domcom_guard.141.a: "很好。"
+
+  domcom_guard_defense_success_toast: "宫廷已获捍卫"
+  domcom_household_guarded_modifier: "内宅受护"
+  domcom_household_guarded_modifier_desc: "最近的一场交锋让这种关系处于严密监视之下。在一年内，AI角色无法对该角色进行挑逗、邀上床或自主升级支配亲密关系。"
+
+  domcom_defended_household_opinion: "捍卫了我们的宫廷"
+  domcom_thwarted_suitor_opinion: "挫败了我的追求"
+  domcom_rejected_after_confrontation_opinion: "逼得太紧"

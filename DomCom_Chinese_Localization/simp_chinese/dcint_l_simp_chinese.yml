@@ -1,0 +1,24 @@
+l_simp_chinese:
+
+ dcint.100.t: "恰当之耳"
+ dcint.100.desc: "[scope:dcint_partner.GetTitledFirstName]在另一个内宅中占有一席之地，而那个位置极具价值。晚餐时重复的一句提议，小心翼翼埋下的疑虑，或是出自内部人员之口的故事——当影响力来自高墙之内时，它能传得更远。"
+ dcint.100.a: "让风言风语流传开来。"
+ dcint.100.b: "时机未到。什么都别说。"
+
+ dcint.200.t: "值得拉拢之人"
+ dcint.200.desc: "[scope:dcint_partner.GetTitledFirstName]了解那个内宅表面光鲜背后的真实人群：谁被忽视，谁心怀不满，以及谁可能被说服，相信效忠于我比留在现状更有前途。"
+ dcint.200.a: "将他们带到我的宫廷。"
+ dcint.200.b: "让他们留原处。"
+
+ dcint.300.t: "血脉之争"
+ dcint.300.desc: "[scope:dcint_partner.GetTitledFirstName]谨慎地提起了这件事。在这个内宅中有一个拥有我血脉的孩子，而当头衔、继承权与恰当的压力交织在一起时，血脉就能演变为政治筹码。"
+ dcint.300.a: "给我的孩子一个宣称。"
+ dcint.300.b: "动作太大，为时尚早。"
+
+ dcint_whispered_against_opinion: "受内宅风言风语毒害"
+ dcint_whispered_against_strong_opinion: "从内部被削弱"
+ dcint_whispered_against_pet_opinion: "内宅反目成仇"
+ dcint_courtier_poached_opinion: "挖走廷臣"
+ dcint_claim_pressed_opinion: "宣示血脉宣称"
+ dcint_partner_grateful_opinion: "信任我的建议"
+ dcint_whisper_consequences_tt: "#bold 后果：#!如果低语奏效，主要配偶在内宅中的地位/好感度将降低，并可能增加10–20点压力。若其压力已达150，支配机制将不再增加此项正面压力。"
